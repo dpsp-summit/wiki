@@ -6,3 +6,5 @@ Documentation
 [Deploying sample Spring boot App and MySQL DB on Kubernetes](https://github.com/dpsp-summit/wiki/wiki/Deploying-sample-Spring-boot-App-and-MySQL-DB-on-Kubernetes)
 
 [Deploying sample Spring Boot app on Kubernetes with an RDS DB](https://github.com/dpsp-summit/wiki/wiki/Deploying-sample-Spring-Boot-app-on-Kubernetes-with-an-RDS-DB)
+
+[Using Istio Gateway for Ingress routing on Kubernetes](https://github.com/dpsp-summit/wiki/wiki/Using-Istio-Gateway-for-Ingress-routing-on-Kubernetes)
