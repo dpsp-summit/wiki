@@ -8,3 +8,5 @@ Documentation
 [Deploying sample Spring Boot app on Kubernetes with an RDS DB](https://github.com/dpsp-summit/wiki/wiki/Deploying-sample-Spring-Boot-app-on-Kubernetes-with-an-RDS-DB)
 
 [Using Istio Gateway for Ingress routing on Kubernetes](https://github.com/dpsp-summit/wiki/wiki/Using-Istio-Gateway-for-Ingress-routing-on-Kubernetes)
+
+[Deploying a Spring Boot app as a Kafka Producer on Kubernetes](https://github.com/dpsp-summit/wiki/wiki/Deploying-a-Spring-Boot-app-as-a-Kafka-Producer-on-Kubernetes)
