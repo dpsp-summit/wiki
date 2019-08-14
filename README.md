@@ -10,3 +10,5 @@ Documentation
 [Using Istio Gateway for Ingress routing on Kubernetes](https://github.com/dpsp-summit/wiki/wiki/Using-Istio-Gateway-for-Ingress-routing-on-Kubernetes)
 
 [Deploying a Spring Boot app as a Kafka Producer on Kubernetes](https://github.com/dpsp-summit/wiki/wiki/Deploying-a-Spring-Boot-app-as-a-Kafka-Producer-on-Kubernetes)
+
+[Deploying sample Go application on Kubernetes with Oracle RDS](https://github.com/dpsp-summit/wiki/wiki/Deploying-sample-Go-application-on-Kubernetes-with-Oracle-RDS)
